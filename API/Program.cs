@@ -1,9 +1,14 @@
-﻿using Application;
+﻿using API;
+using Application;
+using Application.Services;
 using Domain.Entities;
 using Infrastructure;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.IdentityModel.Tokens;
 using Persistance;
 using Persistance.Context;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -30,10 +35,35 @@ builder.Services.AddCors(options =>
     });
 });
 
+// ✅ Add JWT
+builder.Services.Configure<JWTSettings>(builder.Configuration.GetSection("Jwt"));
+builder.Services.AddAuthentication(options =>
+{
+    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+})
+.AddJwtBearer(o =>
+{
+    var jwtSettings = builder.Configuration.GetSection("Jwt").Get<JWTSettings>();
+    o.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidateIssuer = true,
+        ValidateAudience = true,
+        ValidateLifetime = true,
+        ValidateIssuerSigningKey = true,
+        ValidIssuer = jwtSettings.Issuer,
+        ValidAudience = jwtSettings.Audience,
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(jwtSettings.Key))
+    };
+});
+
 // Dependency Injection 
 builder.Services.AddApplication();
 builder.Services.AddInfrastructure();
 builder.Services.AddPersistance(builder.Configuration);
+
+builder.Services.AddScoped<AuthService>();
+
 
 
 var app = builder.Build();  

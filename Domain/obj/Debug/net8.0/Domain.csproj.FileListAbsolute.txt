@@ -47,3 +47,16 @@ C:\Users\MUSAB\source\repos\Mujahid\18_Clean\Domain\obj\Debug\net8.0\Domain.dll
 C:\Users\MUSAB\source\repos\Mujahid\18_Clean\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\Users\MUSAB\source\repos\Mujahid\18_Clean\Domain\obj\Debug\net8.0\Domain.pdb
 C:\Users\MUSAB\source\repos\Mujahid\18_Clean\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\MUSAB\source\repos\Mujahid\18_CleanAPI\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\MUSAB\source\repos\Mujahid\18_CleanAPI\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\MUSAB\source\repos\Mujahid\18_CleanAPI\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\MUSAB\source\repos\Mujahid\18_CleanAPI\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\MUSAB\source\repos\Mujahid\18_CleanAPI\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MUSAB\source\repos\Mujahid\18_CleanAPI\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\MUSAB\source\repos\Mujahid\18_CleanAPI\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\MUSAB\source\repos\Mujahid\18_CleanAPI\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\MUSAB\source\repos\Mujahid\18_CleanAPI\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\MUSAB\source\repos\Mujahid\18_CleanAPI\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\MUSAB\source\repos\Mujahid\18_CleanAPI\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\MUSAB\source\repos\Mujahid\18_CleanAPI\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\MUSAB\source\repos\Mujahid\18_CleanAPI\Domain\obj\Debug\net8.0\ref\Domain.dll

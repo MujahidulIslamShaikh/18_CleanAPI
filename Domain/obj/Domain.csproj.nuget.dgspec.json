@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_Clean\\Domain\\Domain.csproj": {}
+    "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanAPI\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_Clean\\Domain\\Domain.csproj": {
+    "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanAPI\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_Clean\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanAPI\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_Clean\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanAPI\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\MUSAB\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_Clean\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanAPI\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
