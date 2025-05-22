@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Application</id>
+    <version>1.0.0</version>
+    <authors>Application</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="7dbc7d2c22076cd8769bccf002637a910bc1d81a" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Domain" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="AutoMapper" version="14.0.0" exclude="Build,Analyzers" />
+        <dependency id="MediatR" version="12.5.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Identity.EntityFrameworkCore" version="8.0.5" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="8.0.5" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="8.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\MUSAB\source\repos\Mujahid\18_Clean-master\Application\bin\Debug\net8.0\Application.dll" target="lib\net8.0\Application.dll" />
+  </files>
+</package>
