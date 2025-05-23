@@ -9,13 +9,13 @@ using System.Reflection.Metadata;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Application.Features.Auth.Commands
+namespace Application.Features.Auth.Commands  
 {
     public class RegisterCommandHandler : IRequestHandler<RegisterCommand, string>
     {
         private readonly UserManager<ApplicationUser> _userManager;
         private readonly IMapper _mapper;
-
+            
         public RegisterCommandHandler(UserManager<ApplicationUser> userManager, IMapper mapper)
         {
             _userManager = userManager;

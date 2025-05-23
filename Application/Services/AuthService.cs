@@ -39,5 +39,15 @@ namespace Application.Services
 
             return new JwtSecurityTokenHandler().WriteToken(token);
         }
+
+        public object GenerateToken(string user)
+        {
+            throw new NotImplementedException();
+        }
+
+        public object GenerateToken(object user)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C52E2987-2355-48FE-A231-8281C3083757}|API\\API.csproj|c:\\users\\musab\\source\\repos\\mujahid\\18_cleanapi\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C52E2987-2355-48FE-A231-8281C3083757}|API\\API.csproj|solutionrelative:api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C52E2987-2355-48FE-A231-8281C3083757}|API\\API.csproj|c:\\users\\musab\\source\\repos\\mujahid\\18_cleanapi\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52E2987-2355-48FE-A231-8281C3083757}|API\\API.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F7BB45-C7EE-4F31-B51B-211AD820256D}|Application\\Application.csproj|c:\\users\\musab\\source\\repos\\mujahid\\18_cleanapi\\application\\features\\auth\\queries\\loginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F7BB45-C7EE-4F31-B51B-211AD820256D}|Application\\Application.csproj|solutionrelative:application\\features\\auth\\queries\\loginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F7BB45-C7EE-4F31-B51B-211AD820256D}|Application\\Application.csproj|c:\\users\\musab\\source\\repos\\mujahid\\18_cleanapi\\application\\features\\auth\\queries\\loginqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F7BB45-C7EE-4F31-B51B-211AD820256D}|Application\\Application.csproj|solutionrelative:application\\features\\auth\\queries\\loginqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99F7BB45-C7EE-4F31-B51B-211AD820256D}|Application\\Application.csproj|c:\\users\\musab\\source\\repos\\mujahid\\18_cleanapi\\application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99F7BB45-C7EE-4F31-B51B-211AD820256D}|Application\\Application.csproj|solutionrelative:application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99F7BB45-C7EE-4F31-B51B-211AD820256D}|Application\\Application.csproj|c:\\users\\musab\\source\\repos\\mujahid\\18_cleanapi\\application\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99F7BB45-C7EE-4F31-B51B-211AD820256D}|Application\\Application.csproj|solutionrelative:application\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{99F7BB45-C7EE-4F31-B51B-211AD820256D}|Application\\Application.csproj|c:\\users\\musab\\source\\repos\\mujahid\\18_cleanapi\\application\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99F7BB45-C7EE-4F31-B51B-211AD820256D}|Application\\Application.csproj|solutionrelative:application\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F7BB45-C7EE-4F31-B51B-211AD820256D}|Application\\Application.csproj|c:\\users\\musab\\source\\repos\\mujahid\\18_cleanapi\\application\\features\\auth\\commands\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F7BB45-C7EE-4F31-B51B-211AD820256D}|Application\\Application.csproj|solutionrelative:application\\features\\auth\\commands\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F7BB45-C7EE-4F31-B51B-211AD820256D}|Application\\Application.csproj|c:\\users\\musab\\source\\repos\\mujahid\\18_cleanapi\\application\\features\\auth\\commands\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F7BB45-C7EE-4F31-B51B-211AD820256D}|Application\\Application.csproj|solutionrelative:application\\features\\auth\\commands\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52E2987-2355-48FE-A231-8281C3083757}|API\\API.csproj|c:\\users\\musab\\source\\repos\\mujahid\\18_cleanapi\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C52E2987-2355-48FE-A231-8281C3083757}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C52E2987-2355-48FE-A231-8281C3083757}|API\\API.csproj|c:\\users\\musab\\source\\repos\\mujahid\\18_cleanapi\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C52E2987-2355-48FE-A231-8281C3083757}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C52E2987-2355-48FE-A231-8281C3083757}|API\\API.csproj|c:\\users\\musab\\source\\repos\\mujahid\\18_cleanapi\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C52E2987-2355-48FE-A231-8281C3083757}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{99F7BB45-C7EE-4F31-B51B-211AD820256D}|Application\\Application.csproj|c:\\users\\musab\\source\\repos\\mujahid\\18_cleanapi\\application\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F7BB45-C7EE-4F31-B51B-211AD820256D}|Application\\Application.csproj|solutionrelative:application\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,50 +50,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanAPI\\API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanAPI\\API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowDIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:52:30.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginQuery.cs",
+              "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanAPI\\Application\\Features\\Auth\\Queries\\LoginQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Auth\\Queries\\LoginQuery.cs",
+              "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanAPI\\Application\\Features\\Auth\\Queries\\LoginQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Auth\\Queries\\LoginQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:04:48.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanAPI\\Application\\Features\\Auth\\Queries\\LoginQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Auth\\Queries\\LoginQueryHandler.cs",
+              "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanAPI\\Application\\Features\\Auth\\Queries\\LoginQueryHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Auth\\Queries\\LoginQueryHandler.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBUAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:06:50.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterCommand.cs",
+              "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanAPI\\Application\\Features\\Auth\\Commands\\RegisterCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Auth\\Commands\\RegisterCommand.cs",
+              "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanAPI\\Application\\Features\\Auth\\Commands\\RegisterCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Auth\\Commands\\RegisterCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:50:44.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "LoginRequest.cs",
               "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanAPI\\Application\\DTOs\\LoginRequest.cs",
               "RelativeDocumentMoniker": "Application\\DTOs\\LoginRequest.cs",
               "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanAPI\\Application\\DTOs\\LoginRequest.cs",
               "RelativeToolTip": "Application\\DTOs\\LoginRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T13:27:13.829Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanAPI\\API\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanAPI\\API\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "API\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAwwBcAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T13:22:10.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanAPI\\Application\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "Application\\Services\\AuthService.cs",
               "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanAPI\\Application\\Services\\AuthService.cs",
               "RelativeToolTip": "Application\\Services\\AuthService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAkAAAARAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAMwC8AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T13:14:24.937Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "RegisterCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanAPI\\Application\\Features\\Auth\\Commands\\RegisterCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Auth\\Commands\\RegisterCommandHandler.cs",
+              "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanAPI\\Application\\Features\\Auth\\Commands\\RegisterCommandHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Auth\\Commands\\RegisterCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:06:44.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanAPI\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanAPI\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAWwE8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:35:51.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanAPI\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanAPI\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T12:50:00.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "JWTSettings.cs",
               "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanAPI\\Application\\JWTSettings.cs",
               "RelativeDocumentMoniker": "Application\\JWTSettings.cs",
@@ -86,32 +180,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T13:10:51.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanAPI\\API\\Program.cs",
-              "RelativeDocumentMoniker": "API\\Program.cs",
-              "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanAPI\\API\\Program.cs",
-              "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T12:54:10.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanAPI\\API\\appsettings.json",
-              "RelativeDocumentMoniker": "API\\appsettings.json",
-              "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanAPI\\API\\appsettings.json",
-              "RelativeToolTip": "API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-22T12:50:00.904Z",
               "EditorCaption": ""
             }
           ]
