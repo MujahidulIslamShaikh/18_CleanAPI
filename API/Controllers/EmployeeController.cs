@@ -1,12 +1,11 @@
 ﻿using Application.Features.Commands;
 using Application.Features.Commands.EmployeeCommands;
 using MediatR;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]")] 
     [ApiController]
     public class EmployeeController : ControllerBase
     {

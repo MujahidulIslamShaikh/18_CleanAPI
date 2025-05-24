@@ -11,7 +11,7 @@ namespace Application.Services
     {
         private readonly IConfiguration _configuration;
 
-        public AuthService(IConfiguration configuration)
+        public AuthService(IConfiguration configuration)               
         {
             _configuration = configuration;
         }
@@ -40,14 +40,17 @@ namespace Application.Services
             return new JwtSecurityTokenHandler().WriteToken(token);
         }
 
-        public object GenerateToken(string user)
-        {
-            throw new NotImplementedException();
-        }
+        //public object GenerateToken(string user)
+        //{
+        //    throw new NotImplementedException();
+        //}
+        //public object GenerateToken(object user)
+        //{
+        //    throw new NotImplementedException();
+        //}
 
-        public object GenerateToken(object user)
-        {
-            throw new NotImplementedException();
-        }
+
+
+
     }
 }

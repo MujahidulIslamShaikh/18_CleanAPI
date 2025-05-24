@@ -24,6 +24,7 @@ namespace API.Controllers
             _userManager = userManager;
 
         }
+
         // ✅ MediatR-based register
         [HttpPost("register")] 
         public async Task<IActionResult> Register(RegisterCommand command)
@@ -31,24 +32,13 @@ namespace API.Controllers
             var result = await _mediator.Send(command);
             return Ok(result);
         }
-        // ✅ MediatR-based login
-        //[HttpPost("login-mediatr")]
-        //public async Task<IActionResult> LoginViaMediatR(LoginQuery query)
-        //{  
-        //    var result = await _mediator.Send(query);
-        //    return Ok(result);
-        //}
 
   
-        // ✅ Direct login with JWT token (from old AccountController)
+   
         [HttpPost("login")]
-         //public async Task<IActionResult> Login([FromBody] LoginRequest request)
         public async Task<IActionResult> Login([FromBody] LoginRequest request, CancellationToken cancellationToken)
         {
-            //var user = await _userManager.FindByNameAsync(request.Username);
-            //if (user == null || !await _userManager.CheckPasswordAsync(user, request.Password))
-            //    return Unauthorized("Invalid credentials");
-            
+
             
             // 🧠 Mapping LoginRequest to LoginQuery
             var query = new LoginQuery(request.Email, request.Password);
