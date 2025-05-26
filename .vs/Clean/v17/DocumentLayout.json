@@ -66,8 +66,7 @@
               "RelativeToolTip": "API\\Controllers\\AuthController.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T11:52:30.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T11:52:30.521Z"
             },
             {
               "$type": "Document",
@@ -79,8 +78,7 @@
               "RelativeToolTip": "Application\\Features\\Auth\\Commands\\RegisterCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T10:50:44.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T10:50:44.701Z"
             },
             {
               "$type": "Document",
@@ -92,8 +90,7 @@
               "RelativeToolTip": "Application\\Features\\Auth\\Commands\\RegisterCommandHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T11:06:44.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T11:06:44.767Z"
             },
             {
               "$type": "Document",
@@ -105,8 +102,7 @@
               "RelativeToolTip": "Application\\JWTSettings.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T13:10:51.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T13:10:51.119Z"
             },
             {
               "$type": "Document",
@@ -118,8 +114,7 @@
               "RelativeToolTip": "Application\\Services\\AuthService.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAQwA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T13:14:24.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T13:14:24.937Z"
             },
             {
               "$type": "Document",
@@ -129,7 +124,7 @@
               "RelativeDocumentMoniker": "API\\Controllers\\EmployeeController.cs",
               "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanAPI\\API\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "API\\Controllers\\EmployeeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-24T08:31:27.358Z",
               "EditorCaption": ""
@@ -144,8 +139,7 @@
               "RelativeToolTip": "Application\\Features\\Auth\\Queries\\LoginQuery.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T11:04:48.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T11:04:48.265Z"
             },
             {
               "$type": "Document",
@@ -157,8 +151,7 @@
               "RelativeToolTip": "Application\\DTOs\\LoginRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T13:27:13.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T13:27:13.829Z"
             },
             {
               "$type": "Document",
@@ -170,8 +163,7 @@
               "RelativeToolTip": "API\\Program.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAAAEMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T12:35:51.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T12:35:51.817Z"
             },
             {
               "$type": "Document",
